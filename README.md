@@ -2,13 +2,19 @@
 
 ### Description
 
-Code refactoring of existing site <To be written further>
+Code refactoring of existing site belong to marketting agency - Horiseon to make the site more accesible.
+As part of this project, the HTML file is refactored to follow the tag rules and make the code look more clean
+Comments are added to make the code readable. 
+CSS file is re organised to follow the HTML elements order
 
 ## Installation
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+NA
 
 ## Usage 
+
+once the Site is open, user can click on the header bar containing the options to learn more
+for example, clicking on "Search Engine Optimization" takes the user to the corresponding content
 
 ## Credits
 
@@ -16,4 +22,5 @@ What are the steps required to install your project? Provide a step-by-step desc
 * [Image `alt` attributes](https://www.w3schools.com/tags/att_img_alt.asp)
 
 ## License
+MIT Licence
 
