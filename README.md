@@ -13,9 +13,10 @@ NA
 
 ## Usage 
 
-once the Site is open, user can click on the header bar containing the options to learn more
+To open the site, the URL is: https://skhandavalli123.github.io/Surya_Week1_Challenge/starter/
+Once the Site is open, user can click on the header bar containing the options to learn more
 for example, clicking on "Search Engine Optimization" takes the user to the corresponding content
-
+For looking at the benegits, the right hand side content can be visited
 ## Credits
 
 * [Semantic HTML](https://www.w3schools.com/html/html5_semantic_elements.asp)
